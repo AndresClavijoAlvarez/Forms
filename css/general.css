@@ -1,0 +1,40 @@
+@charset "utf-8";
+.general_titulo_1 {
+	font-family: Verdana, Geneva, sans-serif;
+	text-align: center;
+	font-size: 18pt;
+}
+.general_titulo_2 {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 16pt;
+	text-align: center;
+}
+.general_form_texto { text-align: justify; }
+
+.general_etiqueta_formulario {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 14pt;
+	text-align: right;
+}
+.general_campos_formulario {
+	font-family: Verdana, Geneva, sans-serif;
+}
+.general_boton_formulario {
+	text-align: center;
+	font-family: Verdana, Geneva, sans-serif;
+}
+
+.general_imagen_encabezado { text-align: center; }
+
+.general_usuario_actual {
+	font-family: Verdana, Geneva, sans-serif;
+	text-align: center;
+	font-size: 12pt;
+	font-weight: bold;
+	color: #360;
+}
+
+.general_form_negrilla {
+	font-weight: bold;
+	text-align: center;
+}
